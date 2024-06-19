@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: ms-auth-module
+server:
+  port: 9000
